@@ -15,7 +15,7 @@ UseCase8TrainConsistMgmnt app=new UseCase8TrainConsistMgmnt();
 
         List<Bogie> result = app.filterBogies(bogies);
 
-        assertEquals(1, result.size());
+        assertEquals(1,   result.size());
     }
 
     @Test
