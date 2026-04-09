@@ -1,4 +1,4 @@
-public class Bogie {
+public  class Bogie {
     String name;
     int capacity;
 
@@ -7,7 +7,7 @@ public class Bogie {
         this.capacity = capacity;
     }
 
-    public String getName() {
+    public  String getName() {
         return name;
     }
 
